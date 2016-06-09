@@ -1,0 +1,16 @@
+h1, h2, h3 {
+	color: White;
+	text-align: center;
+}
+
+form {
+	text-align: center;
+	color: white;
+}
+
+
+body {
+	background-image: url("../img/background.jpg");
+	background-size: 1400px 800px;
+	background-repeat: no-repeat;
+}
